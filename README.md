@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyesh372
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python Open Source Project
 - 📫 How to reach me ...
 
 <!---
